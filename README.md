@@ -75,6 +75,14 @@ No momento, estou cursando o **CS50 de Harvard** e o curso de **Git e GitHub** d
 />
 <img 
     align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 

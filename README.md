@@ -3,8 +3,8 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Lucas Henrique, tenho 14 anos e sou natural de São Paulo. Atualmente estou cursando o Ensino Fundamental II e sou apaixonado por tecnologia e programação.
-Já concluí os 5 módulos de HTML e CSS pelo **Curso em Vídeo** do Gustavo Guanabara, o curso de **JavaScript** e o curso de **React** pelo **SuperSimpleDev**, e o curso de **Python** pela **Hashtag Programação**.
-No momento, estou cursando o **CS50 de Harvard** e o curso de **Git e GitHub** do **SuperSimpleDev**, sempre buscando evoluir e aprender mais sobre desenvolvimento.
+Já concluí os 5 módulos de HTML e CSS pelo Curso em Vídeo do Gustavo Guanabara, o curso de JavaScript e o curso de React com TypeScript pelo SuperSimpleDev, o curso de Python pela Hashtag Programação e o curso de Golang pelo freeCodeCamp.
+No momento, estou cursando o CS50 de Harvard e o curso de Git e GitHub do SuperSimpleDev, sempre buscando evoluir e aprender mais sobre desenvolvimento.
 
 <p align="left">
     <a href="https://wa.me/5511952460849">

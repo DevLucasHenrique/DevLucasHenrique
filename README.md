@@ -107,11 +107,19 @@ No momento, estou cursando o CS50 de Harvard e o curso de Git e GitHub do SuperS
 />
 <img 
     align="left" 
+    alt="Golang" 
+    title="Golang"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
 <br/>

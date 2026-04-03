@@ -99,6 +99,15 @@ No momento, estou cursando o CS50 de Harvard e o curso de Git e GitHub do SuperS
 />
 <img 
     align="left" 
+    alt="NPM" 
+    title="NPM"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 

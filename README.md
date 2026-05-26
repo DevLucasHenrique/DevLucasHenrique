@@ -1,10 +1,11 @@
 # 🧑🏻‍💻 Lucas Henrique
  
-**`Desenvolvedor FullStack`**
+**`Software Developer`**
  
-Me chamo Lucas Henrique, tenho 14 anos e sou natural de São Paulo. Atualmente estou cursando o Ensino Fundamental II e sou apaixonado por tecnologia e programação.
-Já concluí os 5 módulos de HTML e CSS pelo Curso em Vídeo do Gustavo Guanabara, o curso de JavaScript, o curso de React com TypeScript e o curso de Git e GitHub pelo SuperSimpleDev, o curso de Python pela Hashtag Programação e o curso de Golang pelo FreeCodeCamp.
-No momento, estou cursando o CS50 de Harvard, sempre buscando evoluir e aprender mais sobre desenvolvimento.
+Hi, I'm Lucas Henrique!
+I'm a Software Developer from São Paulo, Brazil, passionate about technology and software development. Always looking to evolve and build scalable systems.
+I'm currently a CS50 student at Harvard University. I am currently building my own project, Verde Vital (https://www.verdevitalnatural.com.br). I am passionate about clean design and scalable backend systems. You can reach me at: lucashenriquecalixto355@gmail.com.
+Regarding my learning journey, I have completed the CS50 - Introduction to Computer Science at Harvard University, Golang Certification at freeCodeCamp, Python Programming at Hashtag Treinamentos, Web Development (React & TypeScript) at SuperSimpleDev, and the HTML & CSS Professional Modules at Curso em Vídeo.
  
 <p align="left">
     <a href="https://wa.me/5511952460849">

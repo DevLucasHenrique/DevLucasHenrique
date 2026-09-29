@@ -4,7 +4,7 @@
  
 Hi, I'm Lucas Henrique!
 I'm a Software Developer from São Paulo, Brazil, passionate about technology and software development. Always looking to evolve and build scalable systems.
-I'm currently a CS50 student at Harvard University. I am currently building my own project, Verde Vital (https://www.verdevitalnatural.com.br). I am passionate about clean design and scalable backend systems. You can reach me at: lucashenriquecalixto355@gmail.com.
+I'm currently a CS50 student at Harvard University. I am currently building my own project, Sparkiun (https://www.sparkiun.com). I am passionate about clean design and scalable backend systems. You can reach me at: lucashenriquecalixto355@gmail.com.
 Regarding my learning journey, I have completed the CS50 - Introduction to Computer Science at Harvard University, Golang Certification at freeCodeCamp, Python Programming at Hashtag Treinamentos, Web Development (React & TypeScript) at SuperSimpleDev, and the HTML & CSS Professional Modules at Curso em Vídeo.
  
 <p align="left">

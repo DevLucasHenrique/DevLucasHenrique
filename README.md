@@ -36,12 +36,12 @@ Regarding my learning journey, I have completed the CS50 - Introduction to Compu
             src="https://custom-icon-badges.demolab.com/badge/-Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white"
         />
     </a>
-    <a href="https://verdevitalnatural.com.br">
-        <img 
-            alt="Verde Vital" 
-            title="Verde Vital" 
-            src="https://custom-icon-badges.demolab.com/badge/-Verde%20Vital-166534?style=for-the-badge&logo=leaf&logoColor=white"
-        />
+    <a href="https://sparkiun.com">
+    <img 
+        alt="Sparkiun" 
+        title="Sparkiun" 
+        src="https://custom-icon-badges.demolab.com/badge/-Sparkiun-FF6B00?style=for-the-badge&logoColor=white"
+    />
     </a>
     <a href="#">
         <img 
